@@ -9,7 +9,7 @@
 It is one of freeCodeCamp works to receive HTML and CSS sertificate
 
 Site published at https://dkeparute.github.io/Landing-page/
-### Objective: Landing Page
+### Objective: Landing Page project
 
 User Story #1: My product landing page should have a header element with a corresponding id="header".
 
