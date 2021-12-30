@@ -283,24 +283,19 @@ nav > ul {
 
 footer {
     margin-top: 30px;
-    background-color: #ddd;
+    background-color: white;
     padding: 20px;
     display: flex;
     justify-content: space-between;
-}
-
-footer > ul {
-    display: flex;
-    justify-content: flex-end;
-}
-
-footer > span {
-    margin-top: 5px;
-    display: flex;
-    justify-content: flex-end;
     font-size: 0.9em;
     color: #444;
+
 }
+
+a {
+    padding: 0.5rem;
+}
+
 
 @media (max-width: 400px) {
     footer {
